@@ -71,7 +71,7 @@ footer h2 {
 
   /* Hero Style Start */
   .hero {
-    background-image: url("C:/Users/jrivera/Desktop/Assets/images/hero-bg.jpg");
+    background-image: url("../run-buddy/hero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -254,7 +254,7 @@ footer h2 {
     font-size: 20px;
     font-style: normal;
   }
-  
+
   .contact-info a {
     color: #fce138
   }
